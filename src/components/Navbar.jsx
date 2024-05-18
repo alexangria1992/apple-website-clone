@@ -3,7 +3,6 @@ import { appleImg } from '../utils';
 import { searchImg } from '../utils';
 import { bagImg } from '../utils';
 import { navLists } from '../constants';
-
 const Navbar = () => {
   return (
     <header className={styles.navbarHeader}>
