@@ -1,6 +1,6 @@
 .navbarHeader {
   width: 100%;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
   padding-left: 1.25rem;
@@ -22,7 +22,7 @@
 .navbarLinksWrapper {
   display: flex;
   flex: 1 1 0%;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   justify-content: center;
 }
 
@@ -47,6 +47,7 @@
 .navbarLinks:hover {
   color: rgb(255 255 255);
 }
+
 @media (min-width: 640px) {
   .navbarHeader {
     padding-left: 2.5rem;
