@@ -35,7 +35,7 @@ const Hero = () => {
           {' '}
           iPhone 15 Pro
         </p>
-        <div className='heroVideoContainer'>
+        <div className={styles.heroVideoContainer}>
           <video
             className={styles.heroVideo}
             autoPlay
