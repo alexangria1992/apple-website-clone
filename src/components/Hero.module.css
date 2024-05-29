@@ -1,5 +1,5 @@
 .heroContainer {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 100%;
   height: calc(100vh - 60px);
   background: rgb(0, 0, 0);
@@ -9,7 +9,7 @@
 .heroWrapper {
   width: 100%;
   height: 83.333333%;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   flex-direction: column;
 }
 
@@ -24,7 +24,7 @@
 
 .heroVideoContainer {
   width: 75%;
-  border: 1px solid pink;
+  /* border: 1px solid pink; */
 }
 
 .heroVideo {
@@ -75,7 +75,7 @@
 @media (min-width: 768px) {
   .heroVideo {
     width: 83.3%;
-    border: 1px solid lightseagreen;
+    /* border: 1px solid lightseagreen; */
   }
 }
 
