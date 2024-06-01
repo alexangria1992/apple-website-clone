@@ -85,6 +85,11 @@
   justify-content: center;
   align-items: center;
 }
+
+.videoCarousel {
+  transform: translateX(11rem);
+  pointer-events: none;
+}
 @media (min-width: 640px) {
   .videoCarouselContainer {
     width: 70vw;
